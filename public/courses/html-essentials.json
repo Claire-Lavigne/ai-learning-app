@@ -1,0 +1,128 @@
+{
+  "title": "HTML Essentials — 10 étapes",
+  "slug": "html-essentials",
+  "summary": "Découvre les fondations du web en 10 mini-leçons pratiques. Tu apprendras à construire des pages structurées, accessibles et prêtes pour le web moderne.",
+  "duration": "5 min/jour",
+  "lessons": [
+    {
+      "step": 1,
+      "title": "Structure d’une page HTML",
+      "content": [
+        {
+          "text": "Apprends la base : les balises <html>, <head> et <body>. Crée un fichier index.html et observe comment tout contenu se place dans le body. C’est la charpente de toute page web."
+        },
+        {
+          "imagePrompt": "Schéma annoté d’une page HTML avec les sections <head> et <body>."
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "title": "Titres et paragraphes",
+      "content": [
+        {
+          "text": "Utilise les balises <h1> à <h6> pour les titres et <p> pour les paragraphes. Structure ton texte pour qu’il soit lisible et hiérarchisé, comme un article de blog."
+        },
+        {
+          "imagePrompt": "Exemple de page HTML avec titres et paragraphes alignés."
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "title": "Liens et navigation",
+      "content": [
+        {
+          "text": "Crée ton premier lien avec <a href='...'>. Relie plusieurs pages entre elles ou ajoute un lien externe. Les hyperliens sont la base du web : teste-les dans ton navigateur."
+        },
+        {
+          "imagePrompt": "Illustration de plusieurs liens cliquables dans une page HTML."
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "title": "Images et attributs",
+      "content": [
+        {
+          "text": "Insère une image avec <img src='...' alt='...'>. L’attribut alt est essentiel pour le référencement et l’accessibilité. Essaie plusieurs formats d’images et observe le rendu."
+        },
+        {
+          "imagePrompt": "Capture d’une balise <img> avec l’attribut alt mis en évidence."
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "title": "Listes et organisation du contenu",
+      "content": [
+        {
+          "text": "Utilise <ul> et <ol> pour créer des listes à puces ou numérotées. Les listes rendent les informations claires et structurées, parfaites pour les menus ou les instructions."
+        },
+        {
+          "imagePrompt": "Page HTML affichant une liste non ordonnée et une liste numérotée côte à côte."
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "title": "Tableaux simples",
+      "content": [
+        {
+          "text": "Découvre <table>, <tr>, <th> et <td>. Crée un petit tableau de données comme un planning ou un tableau de prix. Les tables servent à présenter des informations tabulaires, pas à mettre en page."
+        },
+        {
+          "imagePrompt": "Table HTML avec entête et deux lignes de données."
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "title": "Formulaires et champs de saisie",
+      "content": [
+        {
+          "text": "Apprends à utiliser <form>, <label> et <input>. Crée un mini formulaire avec un champ texte et un bouton d’envoi. Le couple label/input améliore l’accessibilité pour les utilisateurs."
+        },
+        {
+          "imagePrompt": "Formulaire HTML avec champs nom et email bien alignés."
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "title": "Sémantique et balises modernes",
+      "content": [
+        {
+          "text": "Découvre les balises <header>, <main>, <footer>, <article>, <section>. Elles donnent du sens à la structure de ton document et facilitent le travail des moteurs de recherche."
+        },
+        {
+          "imagePrompt": "Schéma d’une page HTML segmentée en header, main, et footer."
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "title": "Accessibilité et bonnes pratiques",
+      "content": [
+        {
+          "text": "Ajoute des attributs alt, title et aria-label. Vérifie que tes liens sont explicites et que le contraste est suffisant. L’accessibilité rend ton site utilisable par tous."
+        },
+        {
+          "imagePrompt": "Icônes de contraste et lecteur d’écran symbolisant l’accessibilité web."
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "title": "Mini-projet : ta première page complète",
+      "content": [
+        {
+          "text": "Assemble tout ce que tu as appris : structure, texte, image, liens et formulaire. Crée une page complète, valide-la avec un validateur HTML, et partage ton travail !"
+        },
+        {
+          "imagePrompt": "Aperçu d’une page web complète avec header, contenu et footer."
+        }
+      ]
+    }
+  ]
+}

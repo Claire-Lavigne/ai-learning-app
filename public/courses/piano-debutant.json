@@ -1,0 +1,161 @@
+{
+  "title": "Piano débutant — 10 étapes",
+  "slug": "piano-debutant",
+  "summary": "Découvre les bases du piano en 10 courtes étapes de 5 minutes. Chaque étape, un nouveau geste ou concept te rapproche d’une aisance naturelle sur le clavier.",
+  "duration": "5 min/jour",
+  "lessons": [
+    {
+      "step": 1,
+      "title": "Découvrir le clavier",
+      "content": [
+        {
+          "text": "Observe le piano : il est composé de notes blanches et noires."
+        },
+        {
+          "image": "/images/piano/keys-disposition.webp"
+        },
+        {
+          "text": "Les notes noires sont disposées en groupes de deux et trois. Trouve-les !"
+        },
+        {
+          "image": "/images/piano/keys-groups.webp"
+        },
+        {
+          "text": "Identifie le DO central : Trouve un groupe de 2 notes noires au centre du clavier. La marque du piano t'aidera à trouver le centre. La première note blanche à gauche est la note DO."
+        },
+        {
+          "image": "/images/piano/central-DO.webp"
+        },
+        {
+          "text": "Familiarise-toi avec le clavier : Identifie tous les DO et appuie sur chacun d'eux, du plus grave au plus aigu."
+        },
+        {
+          "image": "/images/piano/others-C.webp"
+        },
+        {
+          "note": "DO = C en notation anglaise"
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "title": "Position des mains et posture",
+      "content": [
+        {
+          "text": "Une bonne posture t’aidera à jouer avec fluidité et sans tension. Assieds-toi droit, épaules détendues."
+        },
+        {
+          "image": "/images/piano/pianist-position.webp"
+        },
+        {
+          "text": "Place les doigts légèrement arrondis sur les touches, comme si tu tenais une balle."
+        },
+        {
+          "image": "/images/piano/hand-position.webp"
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "title": "Doigtés 1–5 et numérotation",
+      "content": [
+        {
+          "text": "Apprends la numérotation des doigts : pouce = 1, index = 2, majeur = 3, annulaire = 4, auriculaire = 5."
+        },
+        {
+          "imagePrompt": "/images/piano/right-hand.webp"
+        },
+        {
+          "text": "Joue lentement les touches C–D–E–F–G avec chaque doigt de la main droite, l'un après l'autre. "
+        },
+        {
+          "image": "/images/piano/ex-right-hand.webp"
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "title": "Rythme simple : noires et silences",
+      "content": [
+        {
+          "text": "Apprends à jouer une note par battement : 1–2–3–4. Frappe doucement chaque touche au tempo d’un métronome lent, puis fais une pause (silence) avant de recommencer."
+        },
+        {
+          "imagePrompt": "Illustration d’un métronome et notes noires sur une portée simple."
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "title": "Mains séparées : motif simple",
+      "content": [
+        {
+          "text": "Main droite : joue C–D–E–F–G. Main gauche : joue C–B–A–G–F. Pratique chaque main séparément pour sentir le mouvement fluide des doigts."
+        },
+        {
+          "imagePrompt": "Deux portées séparées pour mains droite et gauche avec flèches de mouvement."
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "title": "Coordination lente des deux mains",
+      "content": [
+        {
+          "text": "Assemble les deux mains sur un motif très simple. Joue lentement, concentre-toi sur le mouvement simultané et l’écoute du son produit."
+        },
+        {
+          "imagePrompt": "Illustration des deux mains jouant en même temps sur le clavier."
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "title": "Lecture des notes de base",
+      "content": [
+        {
+          "text": "Apprends les positions des notes C, D, E, F, G sur la portée. Lis-les en les associant à leurs touches correspondantes sur le clavier."
+        },
+        {
+          "imagePrompt": "Portée musicale avec repères des notes C, D, E, F, G et clavier annoté."
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "title": "Motif main gauche et accompagnement",
+      "content": [
+        {
+          "text": "Joue une note par temps à la main gauche pendant que la main droite joue une mélodie simple. Cette coordination t’apprend la stabilité rythmique."
+        },
+        {
+          "imagePrompt": "Main gauche jouant des notes graves, main droite jouant une mélodie aiguë."
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "title": "Exprimer la dynamique",
+      "content": [
+        {
+          "text": "Joue la même phrase doucement (piano) puis plus fort (forte). Découvre comment le toucher change l’émotion du morceau."
+        },
+        {
+          "imagePrompt": "Notation musicale avec indications 'p' et 'f' représentant les nuances."
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "title": "Mini-pièce finale",
+      "content": [
+        {
+          "text": "Assemble les notions apprises : position, rythme, lecture et dynamique. Joue une courte pièce combinant tout, avec plaisir et confiance."
+        },
+        {
+          "imagePrompt": "Partition simplifiée d’une courte mélodie de piano avec deux mains."
+        }
+      ]
+    }
+  ]
+}
